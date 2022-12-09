@@ -7,3 +7,15 @@ Create release branch with human (master) in boots (boots branch) and hat (hat b
 Create release branch with human (master) in boots (boots branch) and hat (hat branch).
 
 Ответ: различия в файле README
+
+
+------------------------------------------------------------------------------------------------------------------------------------------
+
+В удалённом репозитории 6 коммитов:
+
+1 - init Andrew
+2 - heat added
+3 - boots Andrew
+4 - README added
+5 - dots Andrew
+6 - fix readme
